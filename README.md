@@ -20,7 +20,3 @@ void loop() {
   display.scan(); // Harus dipanggil terus menerus di loop
 }
 ```
-# HUB08Panel
-# HUB08Panel
-# HUB08Panel
-# HUB08Panel
